@@ -20,5 +20,7 @@ Bu proje, React.js kullanılarak geliştirilmiş bir CV uygulamasıdır.
 ## Kurulum
 
 npx create-react-app my-app
+
 cd my-app
+
 npm start
